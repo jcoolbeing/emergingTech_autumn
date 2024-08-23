@@ -8,7 +8,8 @@ It is split into 2 sections:
 	2. Quantum Circuit
 
 ## Requirements:
-In order to run this jupyter notebook you need to install the following
+In order to run this jupyter notebook you need to install the following:
+	
 	1. Python 3.8 or higher
 
 	2. Anaconda (Recommended)

@@ -10,8 +10,12 @@ It is split into 2 sections:
 ## Requirements:
 In order to run this jupyter notebook you need to install the following
 	1. Python 3.8 or higher
+
 	2. Anaconda (Recommended)
+	
 	3. Qiskit
+	
+	4. Jupyter Notebook
 
 ## How to run:
 Clone into the repository by entering following line into the console:
